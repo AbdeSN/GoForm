@@ -2,7 +2,8 @@ package fr.iutvalence.info.dut.m2107;
 
 /**
  * Statut permettent de supprimer ou créer un entrainement
- * Un admin qui hérite de utilisateur qui aura un accès plus avancé 
+ * Un admin qui hérite de utilisateur qui aura un accès plus avancé
+ *
  */
 public class Admin extends Utilisateur {
 
